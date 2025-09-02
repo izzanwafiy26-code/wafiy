@@ -1,0 +1,3 @@
+
+st.title("My First Streamlit App")
+st.write("Hello, world! Welcome to your first Streamlit application.")
